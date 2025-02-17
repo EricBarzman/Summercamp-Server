@@ -1,7 +1,8 @@
 # A Summercamp website server
 
 Made with Strapi!
-See below, for instructions how to launch Strapi.
+See below instructions to launch Strapi.
+
 
 ## 🚀 Getting started with Strapi
 
